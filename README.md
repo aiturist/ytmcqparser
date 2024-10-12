@@ -9,4 +9,4 @@ The program will collect responses starting from A to E.So if any students wishe
 
 After pyplot window is closed the application will ask for time for the next poll. Enter the time as 0 seconds inorder to exit the program.
 
-Please mail us to psd927@gmail.com incase of any queries. Thankyou!
+Please mail us to aiturist@outlook.com incase of any queries. Thankyou!
